@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital@0;1&family=Outfit:wght@400;700&family=Space+Mono&family=Work+Sans:wght@400;500;800&display=swap");
+      body {
+        background-color: #d5e1ef;
+      }
+      div {        
+        width: 320px;
+        height: 497px;
+        background-color: white;
+        border-radius: 20px;
+        overflow: hidden;
+        padding: 16px;
+        margin: auto;
+      }
+
+      h1 {
+        text-align: center;
+        left: 0%;
+        right: 0%;
+        height: 56px;
+        width: 288px;
+        font-family: Outfit;
+        font-size: 22px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 28px;
+        color: #1f314f;
+        margin: 16px;
+      }
+      p {
+        text-align: center;
+        color: grey;
+        margin-left: 32px;
+        margin-right: 32px;
+        margin-bottom: 40px;
+        font-family: Outfit;
+        font-weight: 400;
+        font-size: 15px;
+        font-style: normal;
+        width: 256px;
+        height: 57px;
+        top: 76px;
+        bottom: 16px;
+      }
+
+      img {
+        max-width: 100%;
+        border-radius: 10px;
+      }
